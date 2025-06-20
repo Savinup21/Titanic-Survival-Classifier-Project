@@ -2,8 +2,8 @@
 This project ios to classify and predict whether a person would survive the tragedy of the Titanic, based on factors like:	Ticket class	1 = 1st, 2 = 2nd, 3 = 3rd
 Sex	
 Age in years	
-# of siblings / spouses aboard the Titanic	
-# of parents / children aboard the Titanic	
+Number of siblings / spouses aboard the Titanic	
+Number of parents / children aboard the Titanic	
 Ticket number	
 Passenger fare	
 cCabin number	
