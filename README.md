@@ -1,5 +1,5 @@
 # Titanic-Survival-Classifier-Project
-This project ios to classify and predict whether a person would survive the tragedy of the Titanic, based on factors like:	Ticket class	1 = 1st, 2 = 2nd, 3 = 3rd
+This project is to classify and predict whether a person would survive the tragedy of the Titanic, based on factors like:	Ticket class	1 = 1st, 2 = 2nd, 3 = 3rd
 Sex	
 Age in years	
 Number of siblings / spouses aboard the Titanic	
